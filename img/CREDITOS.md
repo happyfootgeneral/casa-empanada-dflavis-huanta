@@ -12,7 +12,6 @@ Tomadas de sus redes públicas (Facebook https://www.facebook.com/Flaviempanadas
 | empanada-mixta-*.webp | TikTok, 15-10-2025 (https://www.tiktok.com/@dflaviscasadelaempanada/video/7561598643489246482) |
 | hechas-a-mano-*.webp | TikTok, 29-10-2025 (https://www.tiktok.com/@dflaviscasadelaempanada/video/7566655354017303829) |
 | stand-golden-plaza-*.webp | TikTok, 04-12-2025 (https://www.tiktok.com/@dflaviscasadelaempanada/video/7580182839530884373) |
-| empanada-hawaiana-*.webp | TikTok, 08-04-2026 (https://www.tiktok.com/@dflaviscasadelaempanada/video/7626565150820158740) |
 | america-tv-*.webp | Captura de América Televisión compartida en TikTok, 10-09-2026 (https://www.tiktok.com/@dflaviscasadelaempanada/video/7683966280918895892) |
 | og-dflavis.jpg | Composición propia con el logo y hero-empanadas |
 
@@ -23,7 +22,10 @@ Unsplash/Pexels/Pixabay bloquearon la descarga automatizada (protección anti-bo
 |---|---|---|---|
 | ref-carne-*.webp | [Empanadas argentinas de carne (horneadas).jpg](https://commons.wikimedia.org/wiki/File:Empanadas_argentinas_de_carne_(horneadas).jpg) | Horacio Cambeiro | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | ref-pollo-*.webp | [Empanada de pollo El Bosque Yokohama 02.jpg](https://commons.wikimedia.org/wiki/File:Empanada_de_pollo_El_Bosque_Yokohama_02.jpg) | KQuhen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| ref-limon-*.webp | [Bread Fairy - Lemon Meringue Pie 13.jpg](https://commons.wikimedia.org/wiki/File:Bread_Fairy_-_Lemon_Meringue_Pie_13.jpg) | claralieu | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
-| ref-manzana-*.webp | [Slice of apple pie 2.jpg](https://commons.wikimedia.org/wiki/File:Slice_of_apple_pie_2.jpg) | Shisma | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-| ref-fresa-*.webp | [Fresh strawberry pie.jpg](https://commons.wikimedia.org/wiki/File:Fresh_strawberry_pie.jpg) | An Mai | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | ref-chocolate-*.webp | [Hot chocolate p1150797.jpg](https://commons.wikimedia.org/wiki/File:Hot_chocolate_p1150797.jpg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| ref-hawaiana-*.webp | [Empanadas argentinas de jamón y queso recién horneadas sobre servilleta de papel absorbente.jpg](https://commons.wikimedia.org/wiki/File:Empanadas_argentinas_de_jam%C3%B3n_y_queso_reci%C3%A9n_horneadas_sobre_servilleta_de_papel_absorbente.jpg) | Horacio Cambeiro | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| ref-chorizo-*.webp | [Empanada gallega-Chorizo.jpg](https://commons.wikimedia.org/wiki/File:Empanada_gallega-Chorizo.jpg) | Tamorlan | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
+| ref-queso-*.webp | [Empanada de queso El Bosque Yokohama 01.jpg](https://commons.wikimedia.org/wiki/File:Empanada_de_queso_El_Bosque_Yokohama_01.jpg) | KQuhen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| ref-empanada-manzana-*.webp | [Appelflap.jpg](https://commons.wikimedia.org/wiki/File:Appelflap.jpg) | Rasbak | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+
+Nota: la foto de la empanada hawaiana es de una empanada de jamón y queso (referencial); la de chorizo es una empanada gallega de chorizo (referencial). Sustituir por fotos propias de D'Flavis cuando estén disponibles.
