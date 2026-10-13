@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://happyfootgeneral.github.io/casa-empanada-dflavis-huanta/sitemap.xml
